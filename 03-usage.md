@@ -21,17 +21,15 @@ like it to be performed.
 - Normally users make an edit small edit in insert mode then return to Normal mode
 - delete -- d + motion (dd for line deletion)
 - change -- c + motion
+- paste -- p
 - all deletions including ones from changes get put into the registers (I think the last 10 are
   stored -- view with `:registers`)
 - yank (copy) -- y + motion
 - prepend "{register_name} to specify a register to put the copied text into
-- undo -- u in normal mode or <C-u> in insert mode
-- redo -- <C-r> in normal mode or <C-u> in insert mode
+- redo -- <C-r> in normal mode
 - replace - r
 - togglecase
+- undo -- u in normal mode or <C-u> in Insert mode
 
 ## Macros
-- navigation
-- editing
-- macros
 

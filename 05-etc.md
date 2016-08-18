@@ -1,5 +1,6 @@
 # ETC
 
+- vim has its own scripting language... called vimscript
 - `:help` provides an interactive manual page for learning anything and everything vim
 - vimtutor is a program that interactively teaches you the basics of vim (preinstalled alongside vim
   IIRC)
@@ -7,5 +8,7 @@
   is a vim distribution that comes with many plugins that are used for day to day tasks. It is worth
   looking at but IMO it offers too much but serves as a good reference for plugins that you can
   install when you realize you need them
-- vimcasts (http://vimcasts.org/)
-- vim golf (http://www.vimgolf.com/)
+- [vim adventures] (http://vim-adventures.com/)
+- [vimcasts] (http://vimcasts.org/)
+- [vim golf] (http://www.vimgolf.com/)
+- use vim keybindings in chrome with Vimium

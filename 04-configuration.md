@@ -1,4 +1,4 @@
-Configuration
+# Configuration
 - vim is highly configurble through the .vimrc file (you may have a global vimrc and project
   specific vimrc which will override any global settings)
 - Vim is highly customizeable with plugins like many other text editors Two popular plugin managers
